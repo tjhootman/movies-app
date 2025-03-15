@@ -1,0 +1,5 @@
+asgiref==3.8.1
+Django==5.1.7
+gunicorn @ git+https://github.com/benoitc/gunicorn.git@bacbf8aa5152b94e44aa5d2a94aeaf0318a85248
+packaging==24.2
+sqlparse==0.5.3
